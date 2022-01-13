@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD20E5ED-237A-4AD9-A131-1DAF4056AEB5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57FA8F3F-975C-4ECF-916D-3AD21E543CAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "276EB54A-8D3E-41C1-A8EF-A3ADDC0BB310"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0DD9202-FB77-4B1D-981A-CF9CDBEA97B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0DD9202-FB77-4B1D-981A-CF9CDBEA97B6 - 7032c25b0c7bf817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.NetworkService.getAlbumsData(type: iTunesAlbum.RequestType, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2057">
+               </Location>
+               <Location
+                  uuid = "E0DD9202-FB77-4B1D-981A-CF9CDBEA97B6 - 7ca8aa7f7b77e9eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iTunesAlbum.NetworkService.getAlbumsData(type: iTunesAlbum.RequestType, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3192F8A-FDE0-4CA6-827C-CE1AAF5E06A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3305B2F7-377A-4BCF-937E-E12724FDB41F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFEE29E8-122B-4DC8-B5A3-4069A8C29BB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFEE29E8-122B-4DC8-B5A3-4069A8C29BB1 - c6169a36abe1ae85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.NetworkService.getAlbums(albumName: Swift.String, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1657">
+               </Location>
+               <Location
+                  uuid = "BFEE29E8-122B-4DC8-B5A3-4069A8C29BB1 - 66539b1a0b81cb64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in iTunesAlbum.NetworkService.getAlbums(albumName: Swift.String, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "981">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A95B6FE-E68A-4AE2-B73B-780161D6BC61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumsListModule/View/AlbumsListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05A59BF5-A729-4C65-918B-B04ADECF1BC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getAlbumsList(albumName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05A59BF5-A729-4C65-918B-B04ADECF1BC8 - 1c1ed7575130795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.AlbumListPresenter.getAlbumsList(albumName: Swift.String) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "05A59BF5-A729-4C65-918B-B04ADECF1BC8 - fa078d1c05071ab7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumListPresenter.getAlbumsList(albumName: Swift.String) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4813FE0F-489A-4676-8662-534B7C12C893"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getAlbumsList(albumName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C68F2E2E-C62D-4C17-B0AD-A6F8F74BBAC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getAlbumsList(albumName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C68F2E2E-C62D-4C17-B0AD-A6F8F74BBAC8 - fa078d1c050715f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumListPresenter.getAlbumsList(albumName: Swift.String) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "C68F2E2E-C62D-4C17-B0AD-A6F8F74BBAC8 - fa078d1c050715f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumListPresenter.getAlbumsList(albumName: Swift.String) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumsListModule/Presenter/AlbumsListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84584959-C2C7-44FF-8E17-F3FD8D28C94E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC5700ED-64FD-400D-8C00-4D245CBB086B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC5700ED-64FD-400D-8C00-4D245CBB086B - 7032c25b0c7bf92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.NetworkService.getAlbumsData(type: iTunesAlbum.RequestType, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "EC5700ED-64FD-400D-8C00-4D245CBB086B - 7032c25b0c7bf92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.NetworkService.getAlbumsData(type: iTunesAlbum.RequestType, complition: (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/NetworkLayer/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CAFEB98-DCED-46E2-AABC-1EB9A0893B3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAADEAAD-A0A9-48E9-B64C-0D96C457FABF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/NetworkLayer/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getAlbumsData(type:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AA07281-C79F-4EFE-9E01-156E9C3BAD54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getAlbumInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AA07281-C79F-4EFE-9E01-156E9C3BAD54 - 142de0b9b53743c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumInfoPresenter.getAlbumInfo() -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "426">
+               </Location>
+               <Location
+                  uuid = "3AA07281-C79F-4EFE-9E01-156E9C3BAD54 - 142de0b9b53743c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumInfoPresenter.getAlbumInfo() -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29FB75C4-F41D-4DD6-8DD7-5002A1AC7FAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getAlbumInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29FB75C4-F41D-4DD6-8DD7-5002A1AC7FAE - 9b90d9a87240331b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iTunesAlbum.AlbumInfoPresenter.getAlbumInfo() -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "29FB75C4-F41D-4DD6-8DD7-5002A1AC7FAE - 142de0b9b53743a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;iTunesAlbum.AlbumsModel&gt;, Swift.Error&gt;) -&gt; () in iTunesAlbum.AlbumInfoPresenter.getAlbumInfo() -&gt; ()"
+                  moduleName = "iTunesAlbum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Programs/iPhone/iTunesAlbum/iTunesAlbum/AlbumInfoModule/Presenter/AlbumInfoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "200EB60B-34FC-4F0A-8D7E-72CE2ACFABF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumInfoModule/View/AlbumInfoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "success()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F1610E5-8C79-462D-93FC-B48709F9302D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iTunesAlbum/AlbumInfoModule/View/AlbumInfoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
